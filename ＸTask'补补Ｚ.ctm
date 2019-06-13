@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Task schemaVersion="7.1">
+
+	<!--- Define the registration properties for this task. -->
+	<Registration>
+		<Name>ＸNew Task'补补补Ｚ</Name>
+		<Description> </Description>
+		<Procedures> </Procedures>
+		<Version>5.1</Version>
+		<Links>
+			<Link href="http://support.sas.com/software/products/sasstudio/index.html#s1=2">ＸSAS Studio Documentation'补补补补补补Ｚ</Link>
+		</Links>
+	</Registration>
+	
+	<Metadata>
+	
+		<!--- Define the data and roles for this task. -->
+		<DataSources>	
+		</DataSources>
+		
+		<!--- Define the task options. -->
+		<Options>
+		</Options>		
+		
+	</Metadata>
+
+	<!--- Define the UI for task options -->
+	<!--- The UI engine will determine the best representation. -->
+	<UI>
+	</UI>
+	
+	<!--- Define the velocity code template. -->
+  	<CodeTemplate>
+		<![CDATA[
+
+
+		]]>
+	</CodeTemplate>
+	
+</Task>
